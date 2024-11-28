@@ -1,2 +1,29 @@
 # Ignore files 
-.env
+# .env
+
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# OS specific files
+/.DS_Store
+/Thumbs.db
+
+# Logs and Build Files
+logs/
+build/
+dist/
+
+# IDE specific files
+.vscode/
+*.suo
+*.ntvs*
+*.user
+*.sln
+*.tmp
+*.bak
+*.orig
+*.old
+*.bkp
