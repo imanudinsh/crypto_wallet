@@ -1,5 +1,5 @@
 # Ignore files 
-# .env
+.env
 
 # Node.js specific
 node_modules/
@@ -14,7 +14,7 @@ yarn-debug.log*
 # Logs and Build Files
 logs/
 build/
-dist/
+# dist/
 
 # IDE specific files
 .vscode/

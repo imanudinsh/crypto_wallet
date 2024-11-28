@@ -904,10 +904,10 @@
   dependencies:
     "@types/express" "*"
 
-"@types/node@*", "@types/node@^18.11.18", "@types/node@>=10.0.0", "@types/node@>=12.12.47", "@types/node@>=13.7.0":
-  "integrity" "sha512-955mDqvO2vFf/oL7V3WiUtiz+BugyX8uVbaT2H8oj3+8dRyH2FLiNdowe7eNqRM7IOIZvzDH76EoAT+gwm6aIQ=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.19.64.tgz"
-  "version" "18.19.64"
+"@types/node@*", "@types/node@^18.19.67", "@types/node@>=10.0.0", "@types/node@>=12.12.47", "@types/node@>=13.7.0":
+  "integrity" "sha512-wI8uHusga+0ZugNp0Ol/3BqQfEcCCNfojtO6Oou9iVNGPTL6QNSdnUdqq85fRgIorLhLMuPIKpsN98QE9Nh+KQ=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.19.67.tgz"
+  "version" "18.19.67"
   dependencies:
     "undici-types" "~5.26.4"
 
@@ -3458,7 +3458,7 @@
   "resolved" "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   "version" "0.0.6"
 
-"typescript@^4.9.4", "typescript@>=2.7":
+"typescript@^4.9.5", "typescript@>=2.7":
   "integrity" "sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g=="
   "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz"
   "version" "4.9.5"
